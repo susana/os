@@ -1,0 +1,5 @@
+public enum Status {
+  
+  RUNNING, TERMINATED, WAITING, RELEASING, COMPUTING
+
+}
